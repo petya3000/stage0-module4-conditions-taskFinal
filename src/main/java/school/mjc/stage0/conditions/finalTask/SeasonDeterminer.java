@@ -27,4 +27,5 @@ public class SeasonDeterminer {
                         System.out.println("Summer");
                         break;
     }
+    }
 }
